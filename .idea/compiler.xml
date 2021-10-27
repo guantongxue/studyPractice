@@ -1,0 +1,34 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="CompilerConfiguration">
+    <annotationProcessing>
+      <profile name="Maven default annotation processors profile" enabled="true">
+        <sourceOutputDir name="target/generated-sources/annotations" />
+        <sourceTestOutputDir name="target/generated-test-sources/test-annotations" />
+        <outputRelativeToContentRoot value="true" />
+        <module name="es" />
+        <module name="fileUpload" />
+        <module name="redis02-springboot" />
+        <module name="redis01-jedis" />
+        <module name="redis03-chat" />
+        <module name="fileServer" />
+      </profile>
+    </annotationProcessing>
+    <bytecodeTargetLevel>
+      <module name="es" target="1.8" />
+      <module name="fileServer" target="1.5" />
+      <module name="fileUpload" target="1.8" />
+      <module name="redis01-jedis" target="1.5" />
+      <module name="redis02-springboot" target="1.8" />
+      <module name="redis03-chat" target="1.8" />
+    </bytecodeTargetLevel>
+  </component>
+  <component name="JavacSettings">
+    <option name="ADDITIONAL_OPTIONS_OVERRIDE">
+      <module name="es" options="-parameters" />
+      <module name="fileUpload" options="-parameters" />
+      <module name="redis02-springboot" options="-parameters" />
+      <module name="redis03-chat" options="-parameters" />
+    </option>
+  </component>
+</project>

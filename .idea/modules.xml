@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/JVM/JVM.iml" filepath="$PROJECT_DIR$/JVM/JVM.iml" />
+      <module fileurl="file://$PROJECT_DIR$/es/es.iml" filepath="$PROJECT_DIR$/es/es.iml" />
+      <module fileurl="file://$PROJECT_DIR$/fanshe/fanshe.iml" filepath="$PROJECT_DIR$/fanshe/fanshe.iml" />
+      <module fileurl="file://$USER_HOME$/Desktop/文件上传下载源码/fileServerTemp/fileServer.iml" filepath="$USER_HOME$/Desktop/文件上传下载源码/fileServerTemp/fileServer.iml" />
+      <module fileurl="file://$PROJECT_DIR$/fileUpload/fileUpload.iml" filepath="$PROJECT_DIR$/fileUpload/fileUpload.iml" />
+      <module fileurl="file://$PROJECT_DIR$/redis01-jedis/redis01-jedis.iml" filepath="$PROJECT_DIR$/redis01-jedis/redis01-jedis.iml" />
+      <module fileurl="file://$PROJECT_DIR$/redis02-springboot/redis02-springboot.iml" filepath="$PROJECT_DIR$/redis02-springboot/redis02-springboot.iml" />
+      <module fileurl="file://$PROJECT_DIR$/redis03-chat/redis03-chat.iml" filepath="$PROJECT_DIR$/redis03-chat/redis03-chat.iml" />
+      <module fileurl="file://$PROJECT_DIR$/thread01/thread01.iml" filepath="$PROJECT_DIR$/thread01/thread01.iml" />
+    </modules>
+  </component>
+</project>
