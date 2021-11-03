@@ -2,6 +2,7 @@
 <project version="4">
   <component name="CompilerConfiguration">
     <annotationProcessing>
+      <profile default="true" name="Default" enabled="true" />
       <profile name="Maven default annotation processors profile" enabled="true">
         <sourceOutputDir name="target/generated-sources/annotations" />
         <sourceTestOutputDir name="target/generated-test-sources/test-annotations" />
@@ -19,8 +20,8 @@
       <module name="es" target="1.8" />
       <module name="fileServer" target="1.5" />
       <module name="fileUpload" target="1.8" />
-      <module name="mq" target="1.5" />
-      <module name="redis01-jedis" target="1.5" />
+      <module name="mq" target="1.8" />
+      <module name="redis01-jedis" target="1.8" />
       <module name="redis02-springboot" target="1.8" />
       <module name="redis03-chat" target="1.8" />
     </bytecodeTargetLevel>
