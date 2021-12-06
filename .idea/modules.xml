@@ -3,6 +3,7 @@
   <component name="ProjectModuleManager">
     <modules>
       <module fileurl="file://$PROJECT_DIR$/JVM/JVM.iml" filepath="$PROJECT_DIR$/JVM/JVM.iml" />
+      <module fileurl="file://$PROJECT_DIR$/../Multithreading/Multithreading.iml" filepath="$PROJECT_DIR$/../Multithreading/Multithreading.iml" />
       <module fileurl="file://$PROJECT_DIR$/es/es.iml" filepath="$PROJECT_DIR$/es/es.iml" />
       <module fileurl="file://$PROJECT_DIR$/../es-spring/es-spring.iml" filepath="$PROJECT_DIR$/../es-spring/es-spring.iml" />
       <module fileurl="file://$PROJECT_DIR$/fanshe/fanshe.iml" filepath="$PROJECT_DIR$/fanshe/fanshe.iml" />

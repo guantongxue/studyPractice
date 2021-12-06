@@ -8,13 +8,14 @@
         <sourceTestOutputDir name="target/generated-test-sources/test-annotations" />
         <outputRelativeToContentRoot value="true" />
         <module name="es" />
+        <module name="Multithreading" />
         <module name="es-spring" />
         <module name="fileUpload" />
-        <module name="redis02-springboot" />
         <module name="mq" />
         <module name="redis01-jedis" />
-        <module name="redis03-chat" />
         <module name="fileServer" />
+        <module name="redis02-springboot" />
+        <module name="redis03-chat" />
       </profile>
     </annotationProcessing>
     <bytecodeTargetLevel>
@@ -23,6 +24,7 @@
       <module name="fileServer" target="1.5" />
       <module name="fileUpload" target="1.8" />
       <module name="mq" target="1.8" />
+      <module name="Multithreading" target="1.8" />
       <module name="redis01-jedis" target="1.8" />
       <module name="redis02-springboot" target="1.8" />
       <module name="redis03-chat" target="1.8" />
