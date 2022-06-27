@@ -1,26 +1,13 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="Encoding">
-    <file url="file://$USER_HOME$/Desktop/study/rocketmq-all-4.9.2 2/acl/src/main/java" charset="UTF-8" />
-    <file url="file://$USER_HOME$/Desktop/study/rocketmq-all-4.9.2 2/broker/src/main/java" charset="UTF-8" />
-    <file url="file://$USER_HOME$/Desktop/study/rocketmq-all-4.9.2 2/broker/src/main/resources" charset="UTF-8" />
-    <file url="file://$USER_HOME$/Desktop/study/rocketmq-all-4.9.2 2/client/src/main/java" charset="UTF-8" />
-    <file url="file://$USER_HOME$/Desktop/study/rocketmq-all-4.9.2 2/common/src/main/java" charset="UTF-8" />
-    <file url="file://$USER_HOME$/Desktop/study/rocketmq-all-4.9.2 2/example/src/main/java" charset="UTF-8" />
-    <file url="file://$USER_HOME$/Desktop/study/rocketmq-all-4.9.2 2/example/src/main/resources" charset="UTF-8" />
-    <file url="file://$USER_HOME$/Desktop/study/rocketmq-all-4.9.2 2/filter/src/main/java" charset="UTF-8" />
-    <file url="file://$USER_HOME$/Desktop/study/rocketmq-all-4.9.2 2/logappender/src/main/java" charset="UTF-8" />
-    <file url="file://$USER_HOME$/Desktop/study/rocketmq-all-4.9.2 2/logging/src/main/java" charset="UTF-8" />
-    <file url="file://$USER_HOME$/Desktop/study/rocketmq-all-4.9.2 2/namesrv/src/main/java" charset="UTF-8" />
-    <file url="file://$USER_HOME$/Desktop/study/rocketmq-all-4.9.2 2/openmessaging/src/main/java" charset="UTF-8" />
-    <file url="file://$USER_HOME$/Desktop/study/rocketmq-all-4.9.2 2/remoting/src/main/java" charset="UTF-8" />
-    <file url="file://$USER_HOME$/Desktop/study/rocketmq-all-4.9.2 2/srvutil/src/main/java" charset="UTF-8" />
-    <file url="file://$USER_HOME$/Desktop/study/rocketmq-all-4.9.2 2/store/src/main/java" charset="UTF-8" />
-    <file url="file://$USER_HOME$/Desktop/study/rocketmq-all-4.9.2 2/test/src/main/java" charset="UTF-8" />
-    <file url="file://$USER_HOME$/Desktop/study/rocketmq-all-4.9.2 2/tools/src/main/java" charset="UTF-8" />
     <file url="file://$PROJECT_DIR$/es/src/main/java" charset="UTF-8" />
     <file url="file://$PROJECT_DIR$/fileUpload/src/main/java" charset="UTF-8" />
     <file url="file://$PROJECT_DIR$/redis02-springboot/src/main/java" charset="UTF-8" />
     <file url="file://$PROJECT_DIR$/redis03-chat/src/main/java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/rocketmq-all-4.9.2 2/namesrv/src/main/java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/rocketmq-all-4.9.2 2/remoting/src/main/java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/rocketmq-all-4.9.2 2/srvutil/src/main/java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/rocketmq-all-4.9.2 2/tools/src/main/java" charset="UTF-8" />
   </component>
 </project>

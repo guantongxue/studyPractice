@@ -13,23 +13,23 @@
       <module fileurl="file://$PROJECT_DIR$/redis01-jedis/redis01-jedis.iml" filepath="$PROJECT_DIR$/redis01-jedis/redis01-jedis.iml" />
       <module fileurl="file://$PROJECT_DIR$/redis02-springboot/redis02-springboot.iml" filepath="$PROJECT_DIR$/redis02-springboot/redis02-springboot.iml" />
       <module fileurl="file://$PROJECT_DIR$/redis03-chat/redis03-chat.iml" filepath="$PROJECT_DIR$/redis03-chat/redis03-chat.iml" />
-      <module fileurl="file://$USER_HOME$/Desktop/study/rocketmq-all-4.9.2 2/acl/rocketmq-acl.iml" filepath="$USER_HOME$/Desktop/study/rocketmq-all-4.9.2 2/acl/rocketmq-acl.iml" />
-      <module fileurl="file://$USER_HOME$/Desktop/study/rocketmq-all-4.9.2 2/rocketmq-all.iml" filepath="$USER_HOME$/Desktop/study/rocketmq-all-4.9.2 2/rocketmq-all.iml" />
-      <module fileurl="file://$USER_HOME$/Desktop/study/rocketmq-all-4.9.2 2/broker/rocketmq-broker.iml" filepath="$USER_HOME$/Desktop/study/rocketmq-all-4.9.2 2/broker/rocketmq-broker.iml" />
-      <module fileurl="file://$USER_HOME$/Desktop/study/rocketmq-all-4.9.2 2/client/rocketmq-client.iml" filepath="$USER_HOME$/Desktop/study/rocketmq-all-4.9.2 2/client/rocketmq-client.iml" />
-      <module fileurl="file://$USER_HOME$/Desktop/study/rocketmq-all-4.9.2 2/common/rocketmq-common.iml" filepath="$USER_HOME$/Desktop/study/rocketmq-all-4.9.2 2/common/rocketmq-common.iml" />
-      <module fileurl="file://$USER_HOME$/Desktop/study/rocketmq-all-4.9.2 2/distribution/rocketmq-distribution.iml" filepath="$USER_HOME$/Desktop/study/rocketmq-all-4.9.2 2/distribution/rocketmq-distribution.iml" />
-      <module fileurl="file://$USER_HOME$/Desktop/study/rocketmq-all-4.9.2 2/example/rocketmq-example.iml" filepath="$USER_HOME$/Desktop/study/rocketmq-all-4.9.2 2/example/rocketmq-example.iml" />
-      <module fileurl="file://$USER_HOME$/Desktop/study/rocketmq-all-4.9.2 2/filter/rocketmq-filter.iml" filepath="$USER_HOME$/Desktop/study/rocketmq-all-4.9.2 2/filter/rocketmq-filter.iml" />
-      <module fileurl="file://$USER_HOME$/Desktop/study/rocketmq-all-4.9.2 2/logappender/rocketmq-logappender.iml" filepath="$USER_HOME$/Desktop/study/rocketmq-all-4.9.2 2/logappender/rocketmq-logappender.iml" />
-      <module fileurl="file://$USER_HOME$/Desktop/study/rocketmq-all-4.9.2 2/logging/rocketmq-logging.iml" filepath="$USER_HOME$/Desktop/study/rocketmq-all-4.9.2 2/logging/rocketmq-logging.iml" />
-      <module fileurl="file://$USER_HOME$/Desktop/study/rocketmq-all-4.9.2 2/namesrv/rocketmq-namesrv.iml" filepath="$USER_HOME$/Desktop/study/rocketmq-all-4.9.2 2/namesrv/rocketmq-namesrv.iml" />
-      <module fileurl="file://$USER_HOME$/Desktop/study/rocketmq-all-4.9.2 2/openmessaging/rocketmq-openmessaging.iml" filepath="$USER_HOME$/Desktop/study/rocketmq-all-4.9.2 2/openmessaging/rocketmq-openmessaging.iml" />
-      <module fileurl="file://$USER_HOME$/Desktop/study/rocketmq-all-4.9.2 2/remoting/rocketmq-remoting.iml" filepath="$USER_HOME$/Desktop/study/rocketmq-all-4.9.2 2/remoting/rocketmq-remoting.iml" />
-      <module fileurl="file://$USER_HOME$/Desktop/study/rocketmq-all-4.9.2 2/srvutil/rocketmq-srvutil.iml" filepath="$USER_HOME$/Desktop/study/rocketmq-all-4.9.2 2/srvutil/rocketmq-srvutil.iml" />
-      <module fileurl="file://$USER_HOME$/Desktop/study/rocketmq-all-4.9.2 2/store/rocketmq-store.iml" filepath="$USER_HOME$/Desktop/study/rocketmq-all-4.9.2 2/store/rocketmq-store.iml" />
-      <module fileurl="file://$USER_HOME$/Desktop/study/rocketmq-all-4.9.2 2/test/rocketmq-test.iml" filepath="$USER_HOME$/Desktop/study/rocketmq-all-4.9.2 2/test/rocketmq-test.iml" />
-      <module fileurl="file://$USER_HOME$/Desktop/study/rocketmq-all-4.9.2 2/tools/rocketmq-tools.iml" filepath="$USER_HOME$/Desktop/study/rocketmq-all-4.9.2 2/tools/rocketmq-tools.iml" />
+      <module fileurl="file://$PROJECT_DIR$/rocketmq-all-4.9.2 2/acl/rocketmq-acl.iml" filepath="$PROJECT_DIR$/rocketmq-all-4.9.2 2/acl/rocketmq-acl.iml" />
+      <module fileurl="file://$PROJECT_DIR$/rocketmq-all-4.9.2 2/rocketmq-all.iml" filepath="$PROJECT_DIR$/rocketmq-all-4.9.2 2/rocketmq-all.iml" />
+      <module fileurl="file://$PROJECT_DIR$/rocketmq-all-4.9.2 2/broker/rocketmq-broker.iml" filepath="$PROJECT_DIR$/rocketmq-all-4.9.2 2/broker/rocketmq-broker.iml" />
+      <module fileurl="file://$PROJECT_DIR$/rocketmq-all-4.9.2 2/client/rocketmq-client.iml" filepath="$PROJECT_DIR$/rocketmq-all-4.9.2 2/client/rocketmq-client.iml" />
+      <module fileurl="file://$PROJECT_DIR$/rocketmq-all-4.9.2 2/common/rocketmq-common.iml" filepath="$PROJECT_DIR$/rocketmq-all-4.9.2 2/common/rocketmq-common.iml" />
+      <module fileurl="file://$PROJECT_DIR$/rocketmq-all-4.9.2 2/distribution/rocketmq-distribution.iml" filepath="$PROJECT_DIR$/rocketmq-all-4.9.2 2/distribution/rocketmq-distribution.iml" />
+      <module fileurl="file://$PROJECT_DIR$/rocketmq-all-4.9.2 2/example/rocketmq-example.iml" filepath="$PROJECT_DIR$/rocketmq-all-4.9.2 2/example/rocketmq-example.iml" />
+      <module fileurl="file://$PROJECT_DIR$/rocketmq-all-4.9.2 2/filter/rocketmq-filter.iml" filepath="$PROJECT_DIR$/rocketmq-all-4.9.2 2/filter/rocketmq-filter.iml" />
+      <module fileurl="file://$PROJECT_DIR$/rocketmq-all-4.9.2 2/logappender/rocketmq-logappender.iml" filepath="$PROJECT_DIR$/rocketmq-all-4.9.2 2/logappender/rocketmq-logappender.iml" />
+      <module fileurl="file://$PROJECT_DIR$/rocketmq-all-4.9.2 2/logging/rocketmq-logging.iml" filepath="$PROJECT_DIR$/rocketmq-all-4.9.2 2/logging/rocketmq-logging.iml" />
+      <module fileurl="file://$PROJECT_DIR$/rocketmq-all-4.9.2 2/namesrv/rocketmq-namesrv.iml" filepath="$PROJECT_DIR$/rocketmq-all-4.9.2 2/namesrv/rocketmq-namesrv.iml" />
+      <module fileurl="file://$PROJECT_DIR$/rocketmq-all-4.9.2 2/openmessaging/rocketmq-openmessaging.iml" filepath="$PROJECT_DIR$/rocketmq-all-4.9.2 2/openmessaging/rocketmq-openmessaging.iml" />
+      <module fileurl="file://$PROJECT_DIR$/rocketmq-all-4.9.2 2/remoting/rocketmq-remoting.iml" filepath="$PROJECT_DIR$/rocketmq-all-4.9.2 2/remoting/rocketmq-remoting.iml" />
+      <module fileurl="file://$PROJECT_DIR$/rocketmq-all-4.9.2 2/srvutil/rocketmq-srvutil.iml" filepath="$PROJECT_DIR$/rocketmq-all-4.9.2 2/srvutil/rocketmq-srvutil.iml" />
+      <module fileurl="file://$PROJECT_DIR$/rocketmq-all-4.9.2 2/store/rocketmq-store.iml" filepath="$PROJECT_DIR$/rocketmq-all-4.9.2 2/store/rocketmq-store.iml" />
+      <module fileurl="file://$PROJECT_DIR$/rocketmq-all-4.9.2 2/test/rocketmq-test.iml" filepath="$PROJECT_DIR$/rocketmq-all-4.9.2 2/test/rocketmq-test.iml" />
+      <module fileurl="file://$PROJECT_DIR$/rocketmq-all-4.9.2 2/tools/rocketmq-tools.iml" filepath="$PROJECT_DIR$/rocketmq-all-4.9.2 2/tools/rocketmq-tools.iml" />
       <module fileurl="file://$PROJECT_DIR$/thread01/thread01.iml" filepath="$PROJECT_DIR$/thread01/thread01.iml" />
       <module fileurl="file://$PROJECT_DIR$/wangluo/wangluo.iml" filepath="$PROJECT_DIR$/wangluo/wangluo.iml" />
     </modules>

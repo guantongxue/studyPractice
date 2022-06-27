@@ -8,29 +8,18 @@
         <sourceTestOutputDir name="target/generated-test-sources/test-annotations" />
         <outputRelativeToContentRoot value="true" />
         <module name="redis01-jedis" />
-        <module name="rocketmq-openmessaging" />
-        <module name="fileUpload" />
-        <module name="rocketmq-test" />
-        <module name="redis03-chat" />
-        <module name="rocketmq-broker" />
         <module name="es" />
-        <module name="rocketmq-logging" />
         <module name="rocketmq-namesrv" />
         <module name="rocketmq-srvutil" />
-        <module name="rocketmq-tools" />
-        <module name="rocketmq-remoting" />
-        <module name="rocketmq-store" />
         <module name="Multithreading" />
+        <module name="rocketmq-remoting" />
         <module name="es-spring" />
         <module name="redis02-springboot" />
         <module name="mq" />
-        <module name="rocketmq-example" />
-        <module name="rocketmq-common" />
+        <module name="rocketmq-tools" />
+        <module name="redis03-chat" />
         <module name="fileServer" />
-        <module name="rocketmq-acl" />
-        <module name="rocketmq-logappender" />
-        <module name="rocketmq-client" />
-        <module name="rocketmq-filter" />
+        <module name="fileUpload" />
       </profile>
     </annotationProcessing>
     <bytecodeTargetLevel>
