@@ -7,16 +7,30 @@
         <sourceOutputDir name="target/generated-sources/annotations" />
         <sourceTestOutputDir name="target/generated-test-sources/test-annotations" />
         <outputRelativeToContentRoot value="true" />
-        <module name="es" />
-        <module name="rocketmq-logappender" />
-        <module name="redis03-chat" />
-        <module name="es-spring" />
+        <module name="redis01-jedis" />
+        <module name="rocketmq-openmessaging" />
         <module name="fileUpload" />
+        <module name="rocketmq-test" />
+        <module name="redis03-chat" />
+        <module name="rocketmq-broker" />
+        <module name="es" />
+        <module name="rocketmq-logging" />
+        <module name="rocketmq-namesrv" />
+        <module name="rocketmq-srvutil" />
+        <module name="rocketmq-tools" />
+        <module name="rocketmq-remoting" />
+        <module name="rocketmq-store" />
+        <module name="Multithreading" />
+        <module name="es-spring" />
         <module name="redis02-springboot" />
         <module name="mq" />
-        <module name="redis01-jedis" />
-        <module name="Multithreading" />
+        <module name="rocketmq-example" />
+        <module name="rocketmq-common" />
         <module name="fileServer" />
+        <module name="rocketmq-acl" />
+        <module name="rocketmq-logappender" />
+        <module name="rocketmq-client" />
+        <module name="rocketmq-filter" />
       </profile>
     </annotationProcessing>
     <bytecodeTargetLevel>
@@ -29,8 +43,23 @@
       <module name="redis01-jedis" target="1.8" />
       <module name="redis02-springboot" target="1.8" />
       <module name="redis03-chat" target="1.8" />
+      <module name="rocketmq-acl" target="1.8" />
+      <module name="rocketmq-all" target="1.8" />
+      <module name="rocketmq-broker" target="1.8" />
+      <module name="rocketmq-client" target="1.8" />
+      <module name="rocketmq-common" target="1.8" />
+      <module name="rocketmq-distribution" target="1.8" />
+      <module name="rocketmq-example" target="1.8" />
+      <module name="rocketmq-filter" target="1.8" />
       <module name="rocketmq-logappender" target="1.8" />
+      <module name="rocketmq-logging" target="1.8" />
+      <module name="rocketmq-namesrv" target="1.8" />
+      <module name="rocketmq-openmessaging" target="1.8" />
+      <module name="rocketmq-remoting" target="1.8" />
+      <module name="rocketmq-srvutil" target="1.8" />
       <module name="rocketmq-store" target="1.8" />
+      <module name="rocketmq-test" target="1.8" />
+      <module name="rocketmq-tools" target="1.8" />
     </bytecodeTargetLevel>
   </component>
   <component name="JavacSettings">
