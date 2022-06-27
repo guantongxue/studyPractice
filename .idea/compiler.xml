@@ -8,14 +8,15 @@
         <sourceTestOutputDir name="target/generated-test-sources/test-annotations" />
         <outputRelativeToContentRoot value="true" />
         <module name="es" />
-        <module name="Multithreading" />
+        <module name="rocketmq-logappender" />
+        <module name="redis03-chat" />
         <module name="es-spring" />
         <module name="fileUpload" />
+        <module name="redis02-springboot" />
         <module name="mq" />
         <module name="redis01-jedis" />
+        <module name="Multithreading" />
         <module name="fileServer" />
-        <module name="redis02-springboot" />
-        <module name="redis03-chat" />
       </profile>
     </annotationProcessing>
     <bytecodeTargetLevel>
@@ -28,6 +29,8 @@
       <module name="redis01-jedis" target="1.8" />
       <module name="redis02-springboot" target="1.8" />
       <module name="redis03-chat" target="1.8" />
+      <module name="rocketmq-logappender" target="1.8" />
+      <module name="rocketmq-store" target="1.8" />
     </bytecodeTargetLevel>
   </component>
   <component name="JavacSettings">
